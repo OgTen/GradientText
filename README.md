@@ -16,7 +16,7 @@ It supports **horizontal and vertical gradients**, works with multi-line text, a
 ![](https://github.com/OgTen/GradientText/blob/main/images/gradtexts.png)
 
 ```
-from colorgradtext import aqua_wave, rose_blush
+from colorgradtext import aqua_wave
 
 text = "Og_Ten"
 print(aqua_wave(text))
@@ -24,7 +24,7 @@ print(aqua_wave(text))
 ```
 from colorgradtext import lime_light
 
-ascii_art = r"""
+ascii = r"""
    ____   _____            _______ ______ _   _ 
   / __ \ / ____|          |__   __|  ____| \ | |
  | |  | | |  __              | |  | |__  |  \| |
@@ -34,7 +34,7 @@ ascii_art = r"""
                   |_______|   
 """
 
-print(lime_light(ascii_art, direction="vertical"))
+print(lime_light(ascii, direction="vertical"))
 ```
 
 **Download: ``pip install colorgradtext``**
