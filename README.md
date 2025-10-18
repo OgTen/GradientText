@@ -2,7 +2,7 @@
 
 **ColorGradText** is a Python module that allows you to apply amazing color gradients to text and ASCII art in your terminal.  
 It supports **horizontal and vertical gradients**, works with multi-line text, and comes with **10 creative gradient presets**.
-Default direction is "horitonal", so there's no need to add this line.
+Default direction is "horizontal", so there's no need to add this line.
 
 ![](https://github.com/OgTen/GradientText/blob/main/images/aqua_wave.png)
 ![](https://github.com/OgTen/GradientText/blob/main/images/rose_blush.png)
