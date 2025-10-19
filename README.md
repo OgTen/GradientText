@@ -16,6 +16,8 @@ Default direction is "horizontal", so there's no need to add this line.
 ![](https://github.com/OgTen/GradientText/blob/main/images/dreamcloud.png)
 ![](https://github.com/OgTen/GradientText/blob/main/images/gradtexts.png)
 
+# Usage
+
 ```
 from colorgradtext import aqua_wave
 
