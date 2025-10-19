@@ -40,5 +40,7 @@ ascii = r"""
 print(lime_light(ascii, direction="vertical"))
 ```
 
+# Install
+
 ### **Download : ``pip install colorgradtext``**
 ### **Pypi : https://pypi.org/project/colorgradtext/1.0.0/**
