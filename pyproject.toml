@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/colorgradtext"
-Issues = "https://github.com/yourusername/colorgradtext/issues"
+Homepage = "https://github.com/OgTen/GradientText/tree/main"
+
